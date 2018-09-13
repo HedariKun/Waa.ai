@@ -1,6 +1,8 @@
 # Waa.ai
 Waa.ai link shorter API Wrapper for C#
 
+you can download it from [nuget](https://www.nuget.org/packages/Waa.ai/0.1.0)
+
 ***How To Use***
 
 ```cs
