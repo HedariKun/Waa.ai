@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <packageID>Waa.ai</packageID>
+    <Version>0.1</Version>
+    <authors>Hedari</authors>
+    <description>Wrapper Around Waa.ai Link shorter API</description>
+    <PackageProjectUrl>https://github.com/HedariKun/Waa.ai</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/HedariKun/Waa.ai</RepositoryUrl>
+    <RepositoryType>Library</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+</Project>
